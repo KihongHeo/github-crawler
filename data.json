@@ -1,0 +1,22 @@
+{
+  "nlohmann/json": {
+    "stars": 13057,
+    "build_script": "https://github.com/nlohmann/json/blob/develop/Makefile"
+  },
+  "mobile-shell/mosh": {
+    "stars": 8090,
+    "build_script": "https://github.com/mobile-shell/mosh/blob/master/Makefile.am"
+  },
+  "OpenMW/openmw": {
+    "stars": 2542,
+    "build_script": "https://github.com/OpenMW/openmw/blob/master/.travis.yml"
+  },
+  "recastnavigation/recastnavigation": {
+    "stars": 2469,
+    "build_script": "https://github.com/recastnavigation/recastnavigation/blob/master/.travis.yml"
+  },
+  "PX4/Firmware": {
+    "stars": 2381,
+    "build_script": "https://github.com/PX4/Firmware/blob/master/Makefile"
+  }
+}

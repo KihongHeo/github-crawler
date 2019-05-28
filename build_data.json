@@ -1,0 +1,2274 @@
+{
+  "torvalds/linux": {
+    "stars": 69953,
+    "build_script": "Makefile"
+  },
+  "netdata/netdata": {
+    "stars": 36048,
+    "build_script": "CMakeLists.txt"
+  },
+  "antirez/redis": {
+    "stars": 34544,
+    "build_script": "Makefile"
+  },
+  "git/git": {
+    "stars": 26312,
+    "build_script": "Makefile"
+  },
+  "php/php-src": {
+    "stars": 21971,
+    "build_script": "buildconf"
+  },
+  "wg/wrk": {
+    "stars": 19284,
+    "build_script": "Makefile"
+  },
+  "ggreer/the_silver_searcher": {
+    "stars": 17228,
+    "build_script": "autogen.sh"
+  },
+  "FFmpeg/FFmpeg": {
+    "stars": 13970,
+    "build_script": "Makefile"
+  },
+  "stedolan/jq": {
+    "stars": 13651,
+    "build_script": "configure.ac"
+  },
+  "tmux/tmux": {
+    "stars": 12947,
+    "build_script": "autogen.sh"
+  },
+  "obsproject/obs-studio": {
+    "stars": 12417,
+    "build_script": "CMakeLists.txt"
+  },
+  "curl/curl": {
+    "stars": 12205,
+    "build_script": "CMakeLists.txt"
+  },
+  "pjreddie/darknet": {
+    "stars": 11896,
+    "build_script": "Makefile"
+  },
+  "libuv/libuv": {
+    "stars": 11633,
+    "build_script": "CMakeLists.txt"
+  },
+  "radare/radare2": {
+    "stars": 9634,
+    "build_script": "Makefile"
+  },
+  "commaai/openpilot": {
+    "stars": 9522,
+    "build_script": "Makefile"
+  },
+  "robertdavidgraham/masscan": {
+    "stars": 9409,
+    "build_script": "Makefile"
+  },
+  "facebook/zstd": {
+    "stars": 9347,
+    "build_script": "Makefile"
+  },
+  "twitter/twemproxy": {
+    "stars": 8786,
+    "build_script": "configure.ac"
+  },
+  "memcached/memcached": {
+    "stars": 8588,
+    "build_script": "autogen.sh"
+  },
+  "irungentoo/toxcore": {
+    "stars": 8535,
+    "build_script": "autogen.sh"
+  },
+  "allinurl/goaccess": {
+    "stars": 8429,
+    "build_script": "configure.ac"
+  },
+  "andlabs/libui": {
+    "stars": 8291,
+    "build_script": "CMakeLists.txt"
+  },
+  "h2o/h2o": {
+    "stars": 8217,
+    "build_script": "CMakeLists.txt"
+  },
+  "torch/torch7": {
+    "stars": 8212,
+    "build_script": "CMakeLists.txt"
+  },
+  "alibaba/tengine": {
+    "stars": 7998,
+    "build_script": "configure"
+  },
+  "cloudwu/skynet": {
+    "stars": 7517,
+    "build_script": "Makefile"
+  },
+  "jonas/tig": {
+    "stars": 7258,
+    "build_script": "Makefile"
+  },
+  "antirez/disque": {
+    "stars": 7243,
+    "build_script": "Makefile"
+  },
+  "pbatard/rufus": {
+    "stars": 7018,
+    "build_script": "configure"
+  },
+  "fogleman/Craft": {
+    "stars": 6940,
+    "build_script": "CMakeLists.txt"
+  },
+  "apple/darwin-xnu": {
+    "stars": 6913,
+    "build_script": "Makefile"
+  },
+  "google/brotli": {
+    "stars": 6862,
+    "build_script": "Makefile"
+  },
+  "libgit2/libgit2": {
+    "stars": 6824,
+    "build_script": "CMakeLists.txt"
+  },
+  "vk-com/kphp-kdb": {
+    "stars": 6668,
+    "build_script": "Makefile"
+  },
+  "timescale/timescaledb": {
+    "stars": 6668,
+    "build_script": "CMakeLists.txt"
+  },
+  "haiwen/seafile": {
+    "stars": 6622,
+    "build_script": "autogen.sh"
+  },
+  "jedisct1/libsodium": {
+    "stars": 6563,
+    "build_script": "autogen.sh"
+  },
+  "openresty/openresty": {
+    "stars": 6463,
+    "build_script": "Makefile"
+  },
+  "kovidgoyal/kitty": {
+    "stars": 6096,
+    "build_script": "Makefile"
+  },
+  "reactos/reactos": {
+    "stars": 5908,
+    "build_script": "CMakeLists.txt"
+  },
+  "hashcat/hashcat": {
+    "stars": 5542,
+    "build_script": "Makefile"
+  },
+  "SoftEtherVPN/SoftEtherVPN": {
+    "stars": 5366,
+    "build_script": "configure"
+  },
+  "raspberrypi/linux": {
+    "stars": 5365,
+    "build_script": "Makefile"
+  },
+  "b4winckler/macvim": {
+    "stars": 5267,
+    "build_script": "Makefile"
+  },
+  "machyve/xhyve": {
+    "stars": 5245,
+    "build_script": "Makefile"
+  },
+  "nodemcu/nodemcu-firmware": {
+    "stars": 5152,
+    "build_script": "Makefile"
+  },
+  "sdegutis/mjolnir": {
+    "stars": 5022,
+    "build_script": "Makefile"
+  },
+  "beanstalkd/beanstalkd": {
+    "stars": 4957,
+    "build_script": "Makefile"
+  },
+  "postgres/postgres": {
+    "stars": 4891,
+    "build_script": "Makefile"
+  },
+  "lpereira/lwan": {
+    "stars": 4889,
+    "build_script": "CMakeLists.txt"
+  },
+  "rofl0r/proxychains-ng": {
+    "stars": 4694,
+    "build_script": "Makefile"
+  },
+  "jarun/nnn": {
+    "stars": 4679,
+    "build_script": "Makefile"
+  },
+  "videolan/vlc": {
+    "stars": 4666,
+    "build_script": "bootstrap"
+  },
+  "huangz1990/redis-3.0-annotated": {
+    "stars": 4435,
+    "build_script": "Makefile"
+  },
+  "philipl/pifs": {
+    "stars": 4433,
+    "build_script": "autogen.sh"
+  },
+  "systemd/systemd": {
+    "stars": 4427,
+    "build_script": "Makefile"
+  },
+  "coolwanglu/vim.js": {
+    "stars": 4344,
+    "build_script": "Makefile"
+  },
+  "libevent/libevent": {
+    "stars": 4338,
+    "build_script": "CMakeLists.txt"
+  },
+  "matz/streem": {
+    "stars": 4287,
+    "build_script": "Makefile"
+  },
+  "bartobri/no-more-secrets": {
+    "stars": 4271,
+    "build_script": "Makefile"
+  },
+  "mruby/mruby": {
+    "stars": 4261,
+    "build_script": "Makefile"
+  },
+  "vysheng/tg": {
+    "stars": 4244,
+    "build_script": "configure"
+  },
+  "HandBrake/HandBrake": {
+    "stars": 4222,
+    "build_script": "configure"
+  },
+  "google/ios-webkit-debug-proxy": {
+    "stars": 4214,
+    "build_script": "autogen.sh"
+  },
+  "freebsd/freebsd": {
+    "stars": 4105,
+    "build_script": "Makefile"
+  },
+  "i3/i3": {
+    "stars": 4064,
+    "build_script": "configure.ac"
+  },
+  "antirez/kilo": {
+    "stars": 4036,
+    "build_script": "Makefile"
+  },
+  "orangeduck/Cello": {
+    "stars": 4004,
+    "build_script": "Makefile"
+  },
+  "leandromoreira/ffmpeg-libav-tutorial": {
+    "stars": 3979,
+    "build_script": "Makefile"
+  },
+  "jonls/redshift": {
+    "stars": 3965,
+    "build_script": "bootstrap"
+  },
+  "zfsonlinux/zfs": {
+    "stars": 3932,
+    "build_script": "autogen.sh"
+  },
+  "DaveDavenport/rofi": {
+    "stars": 3927,
+    "build_script": "configure.ac"
+  },
+  "hishamhm/htop": {
+    "stars": 3901,
+    "build_script": "autogen.sh"
+  },
+  "Qihoo360/Atlas": {
+    "stars": 3898,
+    "build_script": "configure"
+  },
+  "zserge/webview": {
+    "stars": 3873,
+    "build_script": "CMakeLists.txt"
+  },
+  "qmk/qmk_firmware": {
+    "stars": 3792,
+    "build_script": "Makefile"
+  },
+  "rui314/8cc": {
+    "stars": 3775,
+    "build_script": "Makefile"
+  },
+  "cinder/Cinder": {
+    "stars": 3759,
+    "build_script": "CMakeLists.txt"
+  },
+  "Provenance-Emu/Provenance": {
+    "stars": 3745,
+    "build_script": "Makefile"
+  },
+  "jemalloc/jemalloc": {
+    "stars": 3695,
+    "build_script": "autogen.sh"
+  },
+  "lz4/lz4": {
+    "stars": 3656,
+    "build_script": "Makefile"
+  },
+  "IAIK/meltdown": {
+    "stars": 3626,
+    "build_script": "Makefile"
+  },
+  "redis/hiredis": {
+    "stars": 3575,
+    "build_script": "Makefile"
+  },
+  "openwrt/openwrt": {
+    "stars": 3567,
+    "build_script": "Makefile"
+  },
+  "pando-project/jerryscript": {
+    "stars": 3466,
+    "build_script": "CMakeLists.txt"
+  },
+  "OpenVPN/openvpn": {
+    "stars": 3465,
+    "build_script": "configure.ac"
+  },
+  "mozilla/mozjpeg": {
+    "stars": 3455,
+    "build_script": "CMakeLists.txt"
+  },
+  "sqlcipher/sqlcipher": {
+    "stars": 3430,
+    "build_script": "configure"
+  },
+  "stanfordnlp/GloVe": {
+    "stars": 3399,
+    "build_script": "Makefile"
+  },
+  "sumatrapdfreader/sumatrapdf": {
+    "stars": 3394,
+    "build_script": "Makefile"
+  },
+  "wren-lang/wren": {
+    "stars": 3351,
+    "build_script": "Makefile"
+  },
+  "awslabs/s2n": {
+    "stars": 3343,
+    "build_script": "Makefile"
+  },
+  "Meituan-Dianping/SQLAdvisor": {
+    "stars": 3336,
+    "build_script": "CMakeLists.txt"
+  },
+  "citusdata/citus": {
+    "stars": 3323,
+    "build_script": "Makefile"
+  },
+  "aquynh/capstone": {
+    "stars": 3309,
+    "build_script": "Makefile"
+  },
+  "apple/swift-corelibs-foundation": {
+    "stars": 3303,
+    "build_script": "configure"
+  },
+  "pocoproject/poco": {
+    "stars": 3269,
+    "build_script": "Makefile"
+  },
+  "visit1985/mdp": {
+    "stars": 3222,
+    "build_script": "Makefile"
+  },
+  "rhysd/vim.wasm": {
+    "stars": 3191,
+    "build_script": "Makefile"
+  },
+  "nelhage/reptyr": {
+    "stars": 3179,
+    "build_script": "Makefile"
+  },
+  "Airblader/i3": {
+    "stars": 3126,
+    "build_script": "configure.ac"
+  },
+  "cmus/cmus": {
+    "stars": 3119,
+    "build_script": "Makefile"
+  },
+  "clibs/clib": {
+    "stars": 3095,
+    "build_script": "Makefile"
+  },
+  "session-replay-tools/tcpcopy": {
+    "stars": 3085,
+    "build_script": "configure"
+  },
+  "JoeDog/siege": {
+    "stars": 3067,
+    "build_script": "configure.ac"
+  },
+  "RPISEC/MBE": {
+    "stars": 3034,
+    "build_script": "CMakeLists.txt"
+  },
+  "libretro/RetroArch": {
+    "stars": 3025,
+    "build_script": "Makefile"
+  },
+  "greenplum-db/gpdb": {
+    "stars": 3024,
+    "build_script": "Makefile"
+  },
+  "marcobambini/gravity": {
+    "stars": 3007,
+    "build_script": "Makefile"
+  },
+  "jorisvink/kore": {
+    "stars": 2999,
+    "build_script": "Makefile"
+  },
+  "shellphish/how2heap": {
+    "stars": 2855,
+    "build_script": "Makefile"
+  },
+  "libvips/libvips": {
+    "stars": 2841,
+    "build_script": "autogen.sh"
+  },
+  "OpenKinect/libfreenect": {
+    "stars": 2837,
+    "build_script": "CMakeLists.txt"
+  },
+  "cloudius-systems/osv": {
+    "stars": 2829,
+    "build_script": "Makefile"
+  },
+  "coturn/coturn": {
+    "stars": 2817,
+    "build_script": "configure"
+  },
+  "rubinius/rubinius": {
+    "stars": 2814,
+    "build_script": "configure"
+  },
+  "tmate-io/tmate": {
+    "stars": 2814,
+    "build_script": "autogen.sh"
+  },
+  "mofarrell/p2pvc": {
+    "stars": 2809,
+    "build_script": "Makefile"
+  },
+  "yarrick/iodine": {
+    "stars": 2804,
+    "build_script": "Makefile"
+  },
+  "nmap/nmap": {
+    "stars": 2783,
+    "build_script": "configure"
+  },
+  "seclab-ucr/INTANG": {
+    "stars": 2770,
+    "build_script": "Makefile"
+  },
+  "edenhill/librdkafka": {
+    "stars": 2763,
+    "build_script": "Makefile"
+  },
+  "kornelski/pngquant": {
+    "stars": 2686,
+    "build_script": "Makefile"
+  },
+  "universal-ctags/ctags": {
+    "stars": 2677,
+    "build_script": "autogen.sh"
+  },
+  "transmission/transmission": {
+    "stars": 2583,
+    "build_script": "CMakeLists.txt"
+  },
+  "Cyan4973/xxHash": {
+    "stars": 2578,
+    "build_script": "Makefile"
+  },
+  "P-H-C/phc-winner-argon2": {
+    "stars": 2557,
+    "build_script": "Makefile"
+  },
+  "Atmosphere-NX/Atmosphere": {
+    "stars": 2554,
+    "build_script": "Makefile"
+  },
+  "zmap/zmap": {
+    "stars": 2704,
+    "build_script": "CMakeLists.txt"
+  },
+  "VirusTotal/yara": {
+    "stars": 2680,
+    "build_script": "configure.ac"
+  },
+  "taviso/loadlibrary": {
+    "stars": 2532,
+    "build_script": "Makefile"
+  },
+  "mit-pdos/xv6-public": {
+    "stars": 2515,
+    "build_script": "Makefile"
+  },
+  "klange/toaruos": {
+    "stars": 2512,
+    "build_script": "Makefile"
+  },
+  "baskerville/bspwm": {
+    "stars": 2509,
+    "build_script": "Makefile"
+  },
+  "RIOT-OS/RIOT": {
+    "stars": 2505,
+    "build_script": "Makefile"
+  },
+  "DaveGamble/cJSON": {
+    "stars": 2502,
+    "build_script": "Makefile"
+  },
+  "vanhauser-thc/thc-hydra": {
+    "stars": 2490,
+    "build_script": "Makefile"
+  },
+  "jpmens/jo": {
+    "stars": 2486,
+    "build_script": "configure.ac"
+  },
+  "darktable-org/darktable": {
+    "stars": 2484,
+    "build_script": "CMakeLists.txt"
+  },
+  "gcc-mirror/gcc": {
+    "stars": 2484,
+    "build_script": "configure"
+  },
+  "antirez/sds": {
+    "stars": 2479,
+    "build_script": "Makefile"
+  },
+  "lxc/lxc": {
+    "stars": 2474,
+    "build_script": "autogen.sh"
+  },
+  "ImageMagick/ImageMagick": {
+    "stars": 2458,
+    "build_script": "configure.ac"
+  },
+  "betaflight/betaflight": {
+    "stars": 2436,
+    "build_script": "Makefile"
+  },
+  "tj/luna": {
+    "stars": 2428,
+    "build_script": "Makefile"
+  },
+  "unicorn-engine/unicorn": {
+    "stars": 2415,
+    "build_script": "Makefile"
+  },
+  "libimobiledevice/libimobiledevice": {
+    "stars": 2413,
+    "build_script": "autogen.sh"
+  },
+  "lc-soft/LCUI": {
+    "stars": 2413,
+    "build_script": "autogen.sh"
+  },
+  "DhavalKapil/icmptunnel": {
+    "stars": 2411,
+    "build_script": "Makefile"
+  },
+  "buaazp/zimg": {
+    "stars": 2410,
+    "build_script": "Makefile"
+  },
+  "meetecho/janus-gateway": {
+    "stars": 2389,
+    "build_script": "autogen.sh"
+  },
+  "unbit/uwsgi": {
+    "stars": 2370,
+    "build_script": "Makefile"
+  },
+  "Wind4/vlmcsd": {
+    "stars": 2353,
+    "build_script": "Makefile"
+  },
+  "minoca/os": {
+    "stars": 2348,
+    "build_script": "Makefile"
+  },
+  "huntergregal/mimipenguin": {
+    "stars": 2331,
+    "build_script": "Makefile"
+  },
+  "fontforge/fontforge": {
+    "stars": 2318,
+    "build_script": "bootstrap"
+  },
+  "qemu/qemu": {
+    "stars": 2309,
+    "build_script": "Makefile"
+  },
+  "abrasive/shairport": {
+    "stars": 2289,
+    "build_script": "Makefile"
+  },
+  "cstack/db_tutorial": {
+    "stars": 2275,
+    "build_script": "Makefile"
+  },
+  "eclipse/mosquitto": {
+    "stars": 2270,
+    "build_script": "Makefile"
+  },
+  "lastpass/lastpass-cli": {
+    "stars": 2197,
+    "build_script": "Makefile"
+  },
+  "collectd/collectd": {
+    "stars": 2171,
+    "build_script": "configure.ac"
+  },
+  "Kitware/CMake": {
+    "stars": 2166,
+    "build_script": "configure"
+  },
+  "stefanesser/dumpdecrypted": {
+    "stars": 2135,
+    "build_script": "Makefile"
+  },
+  "antirez/linenoise": {
+    "stars": 2127,
+    "build_script": "Makefile"
+  },
+  "openvenues/libpostal": {
+    "stars": 2118,
+    "build_script": "configure.ac"
+  },
+  "seL4/seL4": {
+    "stars": 2111,
+    "build_script": "CMakeLists.txt"
+  },
+  "hashcat/hashcat-legacy": {
+    "stars": 2110,
+    "build_script": "Makefile"
+  },
+  "akopytov/sysbench": {
+    "stars": 2107,
+    "build_script": "autogen.sh"
+  },
+  "sustrik/libmill": {
+    "stars": 2102,
+    "build_script": "CMakeLists.txt"
+  },
+  "antirez/neural-redis": {
+    "stars": 2100,
+    "build_script": "Makefile"
+  },
+  "nicolasff/webdis": {
+    "stars": 2091,
+    "build_script": "Makefile"
+  },
+  "cleanflight/cleanflight": {
+    "stars": 2090,
+    "build_script": "Makefile"
+  },
+  "yrutschle/sslh": {
+    "stars": 2069,
+    "build_script": "Makefile"
+  },
+  "pipelinedb/pipelinedb": {
+    "stars": 2069,
+    "build_script": "Makefile"
+  },
+  "esnet/iperf": {
+    "stars": 2044,
+    "build_script": "configure"
+  },
+  "johnkerl/miller": {
+    "stars": 2038,
+    "build_script": "configure"
+  },
+  "martin-ger/esp_wifi_repeater": {
+    "stars": 2036,
+    "build_script": "Makefile"
+  },
+  "apache/httpd": {
+    "stars": 2035,
+    "build_script": "CMakeLists.txt"
+  },
+  "ChrisJohnsen/tmux-MacOSX-pasteboard": {
+    "stars": 2019,
+    "build_script": "Makefile"
+  },
+  "stellar/stellar-core": {
+    "stars": 2003,
+    "build_script": "autogen.sh"
+  },
+  "IoLanguage/io": {
+    "stars": 2001,
+    "build_script": "CMakeLists.txt"
+  },
+  "cmusphinx/pocketsphinx": {
+    "stars": 2001,
+    "build_script": "autogen.sh"
+  },
+  "yarrick/pingfs": {
+    "stars": 1984,
+    "build_script": "Makefile"
+  },
+  "coolsnowwolf/lede": {
+    "stars": 1977,
+    "build_script": "Makefile"
+  },
+  "huangz1990/annotated_redis_source": {
+    "stars": 1975,
+    "build_script": "Makefile"
+  },
+  "TelegramMessenger/MTProxy": {
+    "stars": 1974,
+    "build_script": "Makefile"
+  },
+  "warmcat/libwebsockets": {
+    "stars": 1963,
+    "build_script": "CMakeLists.txt"
+  },
+  "zombodb/zombodb": {
+    "stars": 1957,
+    "build_script": "Makefile"
+  },
+  "gluster/glusterfs": {
+    "stars": 1950,
+    "build_script": "autogen.sh"
+  },
+  "WizTeam/WizQTClient": {
+    "stars": 1946,
+    "build_script": "CMakeLists.txt"
+  },
+  "domoticz/domoticz": {
+    "stars": 1942,
+    "build_script": "CMakeLists.txt"
+  },
+  "AuroraWright/Luma3DS": {
+    "stars": 1932,
+    "build_script": "Makefile"
+  },
+  "htacg/tidy-html5": {
+    "stars": 1926,
+    "build_script": "CMakeLists.txt"
+  },
+  "nginx/unit": {
+    "stars": 1921,
+    "build_script": "configure"
+  },
+  "irssi/irssi": {
+    "stars": 1917,
+    "build_script": "autogen.sh"
+  },
+  "haad/proxychains": {
+    "stars": 1913,
+    "build_script": "Makefile"
+  },
+  "akheron/jansson": {
+    "stars": 1897,
+    "build_script": "CMakeLists.txt"
+  },
+  "satori-com/tcpkali": {
+    "stars": 1869,
+    "build_script": "configure.ac"
+  },
+  "alibaba/tsar": {
+    "stars": 1866,
+    "build_script": "Makefile"
+  },
+  "moby/hyperkit": {
+    "stars": 1863,
+    "build_script": "Makefile"
+  },
+  "texane/stlink": {
+    "stars": 1852,
+    "build_script": "Makefile"
+  },
+  "wireshark/wireshark": {
+    "stars": 1844,
+    "build_script": "CMakeLists.txt"
+  },
+  "jonashaag/bjoern": {
+    "stars": 1842,
+    "build_script": "Makefile"
+  },
+  "Microsoft/ProcDump-for-Linux": {
+    "stars": 1834,
+    "build_script": "Makefile"
+  },
+  "openvswitch/ovs": {
+    "stars": 1827,
+    "build_script": "configure.ac"
+  },
+  "flatpak/flatpak": {
+    "stars": 1817,
+    "build_script": "autogen.sh"
+  },
+  "danielfrg/word2vec": {
+    "stars": 1817,
+    "build_script": "Makefile"
+  },
+  "Syllo/nvtop": {
+    "stars": 1813,
+    "build_script": "CMakeLists.txt"
+  },
+  "lloyd/yajl": {
+    "stars": 1809,
+    "build_script": "configure"
+  },
+  "ARMmbed/mbedtls": {
+    "stars": 1788,
+    "build_script": "Makefile"
+  },
+  "madler/zlib": {
+    "stars": 1771,
+    "build_script": "Makefile"
+  },
+  "Rdatatable/data.table": {
+    "stars": 1771,
+    "build_script": "Makefile"
+  },
+  "giltene/wrk2": {
+    "stars": 1755,
+    "build_script": "Makefile"
+  },
+  "zephyrproject-rtos/zephyr": {
+    "stars": 1745,
+    "build_script": "Makefile"
+  },
+  "srdja/Collections-C": {
+    "stars": 1732,
+    "build_script": "CMakeLists.txt"
+  },
+  "libusb/libusb": {
+    "stars": 1732,
+    "build_script": "autogen.sh"
+  },
+  "ejoy/ejoy2d": {
+    "stars": 1724,
+    "build_script": "Makefile"
+  },
+  "netblue30/firejail": {
+    "stars": 1723,
+    "build_script": "configure"
+  },
+  "acassen/keepalived": {
+    "stars": 1714,
+    "build_script": "configure.ac"
+  },
+  "Meituan-Dianping/DBProxy": {
+    "stars": 1711,
+    "build_script": "configure"
+  },
+  "vmg/sundown": {
+    "stars": 1703,
+    "build_script": "Makefile"
+  },
+  "statsite/statsite": {
+    "stars": 1701,
+    "build_script": "autogen.sh"
+  },
+  "github/glb-director": {
+    "stars": 1693,
+    "build_script": "Makefile"
+  },
+  "audacity/audacity": {
+    "stars": 1689,
+    "build_script": "configure"
+  },
+  "glouw/tinn": {
+    "stars": 1678,
+    "build_script": "Makefile"
+  },
+  "chjj/compton": {
+    "stars": 1647,
+    "build_script": "Makefile"
+  },
+  "kohler/gifsicle": {
+    "stars": 1640,
+    "build_script": "configure.ac"
+  },
+  "fragglet/c-algorithms": {
+    "stars": 1632,
+    "build_script": "autogen.sh"
+  },
+  "ntop/nDPI": {
+    "stars": 1626,
+    "build_script": "autogen.sh"
+  },
+  "emojicode/emojicode": {
+    "stars": 1620,
+    "build_script": "CMakeLists.txt"
+  },
+  "facebook/libphenom": {
+    "stars": 1618,
+    "build_script": "autogen.sh"
+  },
+  "darkk/redsocks": {
+    "stars": 1617,
+    "build_script": "Makefile"
+  },
+  "rvoicilas/inotify-tools": {
+    "stars": 1616,
+    "build_script": "autogen.sh"
+  },
+  "ZBar/ZBar": {
+    "stars": 1610,
+    "build_script": "configure.ac"
+  },
+  "varnishcache/varnish-cache": {
+    "stars": 1605,
+    "build_script": "autogen.sh"
+  },
+  "EricssonResearch/openwebrtc": {
+    "stars": 1598,
+    "build_script": "autogen.sh"
+  },
+  "orangeduck/mpc": {
+    "stars": 1596,
+    "build_script": "Makefile"
+  },
+  "raysan5/raylib": {
+    "stars": 1579,
+    "build_script": "CMakeLists.txt"
+  },
+  "nginx/nginx-releases": {
+    "stars": 1576,
+    "build_script": "configure"
+  },
+  "linux-noah/noah": {
+    "stars": 1573,
+    "build_script": "CMakeLists.txt"
+  },
+  "Motion-Project/motion": {
+    "stars": 1572,
+    "build_script": "configure.ac"
+  },
+  "axboe/fio": {
+    "stars": 1571,
+    "build_script": "Makefile"
+  },
+  "pwn20wndstuff/Undecimus": {
+    "stars": 1555,
+    "build_script": "Makefile"
+  },
+  "dvorka/hstr": {
+    "stars": 1553,
+    "build_script": "configure.ac"
+  },
+  "PromyLOPh/pianobar": {
+    "stars": 1547,
+    "build_script": "Makefile"
+  },
+  "espruino/Espruino": {
+    "stars": 1546,
+    "build_script": "Makefile"
+  },
+  "weechat/weechat": {
+    "stars": 1539,
+    "build_script": "CMakeLists.txt"
+  },
+  "LuaJIT/LuaJIT": {
+    "stars": 1506,
+    "build_script": "Makefile"
+  },
+  "facebookarchive/flashcache": {
+    "stars": 1505,
+    "build_script": "Makefile"
+  },
+  "json-c/json-c": {
+    "stars": 1503,
+    "build_script": "CMakeLists.txt"
+  },
+  "tsl0922/ttyd": {
+    "stars": 1503,
+    "build_script": "CMakeLists.txt"
+  },
+  "davidmoreno/onion": {
+    "stars": 1501,
+    "build_script": "CMakeLists.txt"
+  },
+  "RedisLabsModules/RediSearch": {
+    "stars": 1494,
+    "build_script": "Makefile"
+  },
+  "jech/polipo": {
+    "stars": 1492,
+    "build_script": "Makefile"
+  },
+  "Hopson97/MineCraft-One-Week-Challenge": {
+    "stars": 1487,
+    "build_script": "CMakeLists.txt"
+  },
+  "jeelabs/esp-link": {
+    "stars": 1485,
+    "build_script": "Makefile"
+  },
+  "lavabit/magma": {
+    "stars": 1485,
+    "build_script": "Makefile"
+  },
+  "dunst-project/dunst": {
+    "stars": 1475,
+    "build_script": "Makefile"
+  },
+  "lzfse/lzfse": {
+    "stars": 1465,
+    "build_script": "Makefile"
+  },
+  "signal11/hidapi": {
+    "stars": 1465,
+    "build_script": "bootstrap"
+  },
+  "shadowsocks/simple-obfs": {
+    "stars": 1464,
+    "build_script": "autogen.sh"
+  },
+  "edenhill/kafkacat": {
+    "stars": 1460,
+    "build_script": "Makefile"
+  },
+  "tinyproxy/tinyproxy": {
+    "stars": 1448,
+    "build_script": "autogen.sh"
+  },
+  "concurrencykit/ck": {
+    "stars": 1446,
+    "build_script": "configure"
+  },
+  "nmathewson/libevent_obsolete": {
+    "stars": 1443,
+    "build_script": "CMakeLists.txt"
+  },
+  "zserge/jsmn": {
+    "stars": 1442,
+    "build_script": "Makefile"
+  },
+  "apple/swift-corelibs-libdispatch": {
+    "stars": 1441,
+    "build_script": "CMakeLists.txt"
+  },
+  "tvheadend/tvheadend": {
+    "stars": 1438,
+    "build_script": "Makefile"
+  },
+  "dlundquist/sniproxy": {
+    "stars": 1431,
+    "build_script": "autogen.sh"
+  },
+  "kokke/tiny-AES-c": {
+    "stars": 1424,
+    "build_script": "Makefile"
+  },
+  "google/honggfuzz": {
+    "stars": 1406,
+    "build_script": "Makefile"
+  },
+  "shellinabox/shellinabox": {
+    "stars": 1405,
+    "build_script": "configure.ac"
+  },
+  "bumptech/stud": {
+    "stars": 1403,
+    "build_script": "Makefile"
+  },
+  "alols/xcape": {
+    "stars": 1401,
+    "build_script": "Makefile"
+  },
+  "google/cpu_features": {
+    "stars": 1397,
+    "build_script": "CMakeLists.txt"
+  },
+  "merbanan/rtl_433": {
+    "stars": 1397,
+    "build_script": "CMakeLists.txt"
+  },
+  "p-gen/smenu": {
+    "stars": 1396,
+    "build_script": "configure"
+  },
+  "raspberrypi/userland": {
+    "stars": 1389,
+    "build_script": "CMakeLists.txt"
+  },
+  "megous/megatools": {
+    "stars": 1384,
+    "build_script": "autogen.sh"
+  },
+  "confluentinc/bottledwater-pg": {
+    "stars": 1375,
+    "build_script": "Makefile"
+  },
+  "varnish/hitch": {
+    "stars": 1374,
+    "build_script": "bootstrap"
+  },
+  "mgba-emu/mgba": {
+    "stars": 1373,
+    "build_script": "CMakeLists.txt"
+  },
+  "mtoyoda/sl": {
+    "stars": 1369,
+    "build_script": "Makefile"
+  },
+  "Uncodin/bypass": {
+    "stars": 1368,
+    "build_script": "Makefile"
+  },
+  "ntop/PF_RING": {
+    "stars": 1360,
+    "build_script": "Makefile"
+  },
+  "jiangwenyuan/nuster": {
+    "stars": 1356,
+    "build_script": "Makefile"
+  },
+  "vivien/i3blocks": {
+    "stars": 1348,
+    "build_script": "autogen.sh"
+  },
+  "zsh-users/zsh": {
+    "stars": 1347,
+    "build_script": "configure.ac"
+  },
+  "libjpeg-turbo/libjpeg-turbo": {
+    "stars": 1342,
+    "build_script": "CMakeLists.txt"
+  },
+  "GNOME/gimp": {
+    "stars": 1341,
+    "build_script": "autogen.sh"
+  },
+  "lede-project/source": {
+    "stars": 1338,
+    "build_script": "Makefile"
+  },
+  "endrazine/wcc": {
+    "stars": 1332,
+    "build_script": "Makefile"
+  },
+  "ElementsProject/lightning": {
+    "stars": 1323,
+    "build_script": "Makefile"
+  },
+  "lwfinger/rtlwifi_new": {
+    "stars": 1321,
+    "build_script": "Makefile"
+  },
+  "diracdeltas/FastestWebsiteEver": {
+    "stars": 1320,
+    "build_script": "Makefile"
+  },
+  "wiredtiger/wiredtiger": {
+    "stars": 1318,
+    "build_script": "autogen.sh"
+  },
+  "panda-re/panda": {
+    "stars": 1313,
+    "build_script": "Makefile"
+  },
+  "sleuthkit/sleuthkit": {
+    "stars": 1310,
+    "build_script": "bootstrap"
+  },
+  "FFTW/fftw3": {
+    "stars": 1307,
+    "build_script": "CMakeLists.txt"
+  },
+  "gnea/grbl": {
+    "stars": 1305,
+    "build_script": "Makefile"
+  },
+  "notro/fbtft": {
+    "stars": 1302,
+    "build_script": "Makefile"
+  },
+  "Chlumsky/msdfgen": {
+    "stars": 1301,
+    "build_script": "CMakeLists.txt"
+  },
+  "FreeRDP/Remmina": {
+    "stars": 1299,
+    "build_script": "CMakeLists.txt"
+  },
+  "luke-jr/bfgminer": {
+    "stars": 1299,
+    "build_script": "autogen.sh"
+  },
+  "samyk/pwnat": {
+    "stars": 1293,
+    "build_script": "Makefile"
+  },
+  "geany/geany": {
+    "stars": 1290,
+    "build_script": "autogen.sh"
+  },
+  "joyent/smartos-live": {
+    "stars": 1287,
+    "build_script": "Makefile"
+  },
+  "Ettercap/ettercap": {
+    "stars": 1279,
+    "build_script": "CMakeLists.txt"
+  },
+  "antirez/dump1090": {
+    "stars": 1277,
+    "build_script": "Makefile"
+  },
+  "Cisco-Talos/pyrebox": {
+    "stars": 1208,
+    "build_script": "Makefile"
+  },
+  "ellson/MOTHBALLED-graphviz": {
+    "stars": 1208,
+    "build_script": "CMakeLists.txt"
+  },
+  "nanopb/nanopb": {
+    "stars": 1208,
+    "build_script": "CMakeLists.txt"
+  },
+  "jhawthorn/fzy": {
+    "stars": 1203,
+    "build_script": "Makefile"
+  },
+  "albfan/miraclecast": {
+    "stars": 1202,
+    "build_script": "CMakeLists.txt"
+  },
+  "Proxmark/proxmark3": {
+    "stars": 1202,
+    "build_script": "Makefile"
+  },
+  "ivmai/bdwgc": {
+    "stars": 1199,
+    "build_script": "CMakeLists.txt"
+  },
+  "acl-dev/acl": {
+    "stars": 1193,
+    "build_script": "Makefile"
+  },
+  "cloudwu/pbc": {
+    "stars": 1189,
+    "build_script": "Makefile"
+  },
+  "cesanta/v7": {
+    "stars": 1184,
+    "build_script": "Makefile"
+  },
+  "karlstav/cava": {
+    "stars": 1184,
+    "build_script": "autogen.sh"
+  },
+  "KevinOConnor/klipper": {
+    "stars": 1183,
+    "build_script": "Makefile"
+  },
+  "OpenDUNE/OpenDUNE": {
+    "stars": 1181,
+    "build_script": "configure"
+  },
+  "github/brubeck": {
+    "stars": 1179,
+    "build_script": "Makefile"
+  },
+  "DynamoRIO/drmemory": {
+    "stars": 1179,
+    "build_script": "CMakeLists.txt"
+  },
+  "mackyle/sqlite": {
+    "stars": 1178,
+    "build_script": "configure"
+  },
+  "psycopg/psycopg2": {
+    "stars": 1170,
+    "build_script": "Makefile"
+  },
+  "hasura/skor": {
+    "stars": 1168,
+    "build_script": "Makefile"
+  },
+  "vlfeat/vlfeat": {
+    "stars": 1156,
+    "build_script": "Makefile"
+  },
+  "aubio/aubio": {
+    "stars": 1218,
+    "build_script": "Makefile"
+  },
+  "Gnucash/gnucash": {
+    "stars": 1216,
+    "build_script": "CMakeLists.txt"
+  },
+  "fukuchi/libqrencode": {
+    "stars": 1213,
+    "build_script": "CMakeLists.txt"
+  },
+  "begeekmyfriend/bplustree": {
+    "stars": 1213,
+    "build_script": "CMakeLists.txt"
+  },
+  "DNSPod/dnspod-sr": {
+    "stars": 1211,
+    "build_script": "Makefile"
+  },
+  "madler/pigz": {
+    "stars": 1156,
+    "build_script": "Makefile"
+  },
+  "colmap/colmap": {
+    "stars": 1153,
+    "build_script": "CMakeLists.txt"
+  },
+  "saitoha/libsixel": {
+    "stars": 1149,
+    "build_script": "configure"
+  },
+  "iqiyi/dpvs": {
+    "stars": 1147,
+    "build_script": "Makefile"
+  },
+  "McNopper/OpenGL": {
+    "stars": 1143,
+    "build_script": "CMakeLists.txt"
+  },
+  "namhyung/uftrace": {
+    "stars": 1135,
+    "build_script": "Makefile"
+  },
+  "neutrinolabs/xrdp": {
+    "stars": 1124,
+    "build_script": "bootstrap"
+  },
+  "cloudwu/mptun": {
+    "stars": 1124,
+    "build_script": "Makefile"
+  },
+  "dav/word2vec": {
+    "stars": 1119,
+    "build_script": "Makefile"
+  },
+  "westes/flex": {
+    "stars": 1113,
+    "build_script": "autogen.sh"
+  },
+  "confluentinc/confluent-kafka-python": {
+    "stars": 1112,
+    "build_script": "Makefile"
+  },
+  "nikhilm/uvbook": {
+    "stars": 1103,
+    "build_script": "Makefile"
+  },
+  "rui314/9cc": {
+    "stars": 1096,
+    "build_script": "Makefile"
+  },
+  "irtimmer/moonlight-embedded": {
+    "stars": 1096,
+    "build_script": "CMakeLists.txt"
+  },
+  "fancycode/MemoryModule": {
+    "stars": 1087,
+    "build_script": "Makefile"
+  },
+  "traviscross/mtr": {
+    "stars": 1083,
+    "build_script": "configure.ac"
+  },
+  "yandex/odyssey": {
+    "stars": 1081,
+    "build_script": "CMakeLists.txt"
+  },
+  "googleprojectzero/winafl": {
+    "stars": 1076,
+    "build_script": "CMakeLists.txt"
+  },
+  "FascinatedBox/lily": {
+    "stars": 1075,
+    "build_script": "CMakeLists.txt"
+  },
+  "civetweb/civetweb": {
+    "stars": 1075,
+    "build_script": "Makefile"
+  },
+  "intel-iot-devkit/mraa": {
+    "stars": 1074,
+    "build_script": "CMakeLists.txt"
+  },
+  "silentbicycle/greatest": {
+    "stars": 1068,
+    "build_script": "Makefile"
+  },
+  "citusdata/pg_shard": {
+    "stars": 1065,
+    "build_script": "Makefile"
+  },
+  "Bumblebee-Project/Bumblebee": {
+    "stars": 1064,
+    "build_script": "configure.ac"
+  },
+  "OpenSC/OpenSC": {
+    "stars": 1060,
+    "build_script": "bootstrap"
+  },
+  "zyantific/zydis": {
+    "stars": 1059,
+    "build_script": "CMakeLists.txt"
+  },
+  "mtcp-stack/mtcp": {
+    "stars": 1059,
+    "build_script": "configure"
+  },
+  "golang-ui/nuklear": {
+    "stars": 1059,
+    "build_script": "Makefile"
+  },
+  "fluent/fluent-bit": {
+    "stars": 1059,
+    "build_script": "CMakeLists.txt"
+  },
+  "vstakhov/libucl": {
+    "stars": 1058,
+    "build_script": "CMakeLists.txt"
+  },
+  "buserror/simavr": {
+    "stars": 759,
+    "build_script": "Makefile"
+  },
+  "tizonia/tizonia-openmax-il": {
+    "stars": 758,
+    "build_script": "configure.ac"
+  },
+  "ARM-software/arm-trusted-firmware": {
+    "stars": 758,
+    "build_script": "Makefile"
+  },
+  "Cyan4973/FiniteStateEntropy": {
+    "stars": 757,
+    "build_script": "Makefile"
+  },
+  "boothj5/profanity": {
+    "stars": 756,
+    "build_script": "configure.ac"
+  },
+  "zeromq/czmq": {
+    "stars": 751,
+    "build_script": "CMakeLists.txt"
+  },
+  "TheOfficialFloW/h-encore": {
+    "stars": 747,
+    "build_script": "Makefile"
+  },
+  "halayli/lthread": {
+    "stars": 745,
+    "build_script": "CMakeLists.txt"
+  },
+  "bitnine-oss/agensgraph": {
+    "stars": 745,
+    "build_script": "Makefile"
+  },
+  "lattera/glibc": {
+    "stars": 742,
+    "build_script": "Makefile"
+  },
+  "Morgan-Stanley/hobbes": {
+    "stars": 741,
+    "build_script": "CMakeLists.txt"
+  },
+  "i-rinat/freshplayerplugin": {
+    "stars": 740,
+    "build_script": "CMakeLists.txt"
+  },
+  "RedisLabsModules/redisjson": {
+    "stars": 740,
+    "build_script": "Makefile"
+  },
+  "liballeg/allegro5": {
+    "stars": 740,
+    "build_script": "CMakeLists.txt"
+  },
+  "GrahamDumpleton/mod_wsgi": {
+    "stars": 740,
+    "build_script": "configure"
+  },
+  "distcc/distcc": {
+    "stars": 739,
+    "build_script": "autogen.sh"
+  },
+  "jgaeddert/liquid-dsp": {
+    "stars": 737,
+    "build_script": "configure.ac"
+  },
+  "DeaDBeeF-Player/deadbeef": {
+    "stars": 732,
+    "build_script": "autogen.sh"
+  },
+  "majek/fluxcapacitor": {
+    "stars": 731,
+    "build_script": "Makefile"
+  },
+  "EtchedPixels/FUZIX": {
+    "stars": 1011,
+    "build_script": "Makefile"
+  },
+  "ARMmbed/littlefs": {
+    "stars": 1007,
+    "build_script": "Makefile"
+  },
+  "sysstat/sysstat": {
+    "stars": 998,
+    "build_script": "configure"
+  },
+  "2ndQuadrant/repmgr": {
+    "stars": 998,
+    "build_script": "configure"
+  },
+  "nabla-c0d3/ssl-kill-switch2": {
+    "stars": 996,
+    "build_script": "Makefile"
+  },
+  "hoytech/vmtouch": {
+    "stars": 995,
+    "build_script": "Makefile"
+  },
+  "rspamd/rspamd": {
+    "stars": 995,
+    "build_script": "CMakeLists.txt"
+  },
+  "boazsegev/facil.io": {
+    "stars": 994,
+    "build_script": "CMakeLists.txt"
+  },
+  "charliesome/jsos": {
+    "stars": 990,
+    "build_script": "Makefile"
+  },
+  "libarchive/libarchive": {
+    "stars": 989,
+    "build_script": "CMakeLists.txt"
+  },
+  "openbsd/src": {
+    "stars": 986,
+    "build_script": "Makefile"
+  },
+  "Stichting-MINIX-Research-Foundation/minix": {
+    "stars": 985,
+    "build_script": "Makefile"
+  },
+  "seemoo-lab/nexmon": {
+    "stars": 984,
+    "build_script": "Makefile"
+  },
+  "the-tcpdump-group/libpcap": {
+    "stars": 984,
+    "build_script": "configure"
+  },
+  "stephane/libmodbus": {
+    "stars": 981,
+    "build_script": "autogen.sh"
+  },
+  "siemens/jailhouse": {
+    "stars": 979,
+    "build_script": "Makefile"
+  },
+  "glyptodon/guacamole-server": {
+    "stars": 978,
+    "build_script": "configure.ac"
+  },
+  "jvm-profiling-tools/perf-map-agent": {
+    "stars": 978,
+    "build_script": "CMakeLists.txt"
+  },
+  "sustrik/libdill": {
+    "stars": 977,
+    "build_script": "CMakeLists.txt"
+  },
+  "Steveice10/FBI": {
+    "stars": 977,
+    "build_script": "Makefile"
+  },
+  "google/upb": {
+    "stars": 972,
+    "build_script": "CMakeLists.txt"
+  },
+  "f0rb1dd3n/Reptile": {
+    "stars": 966,
+    "build_script": "Makefile"
+  },
+  "Softmotions/ejdb": {
+    "stars": 965,
+    "build_script": "CMakeLists.txt"
+  },
+  "OISF/suricata": {
+    "stars": 964,
+    "build_script": "autogen.sh"
+  },
+  "seppo0010/rlite": {
+    "stars": 961,
+    "build_script": "Makefile"
+  },
+  "tj/mon": {
+    "stars": 961,
+    "build_script": "Makefile"
+  },
+  "spdk/spdk": {
+    "stars": 961,
+    "build_script": "Makefile"
+  },
+  "tekknolagi/carp": {
+    "stars": 957,
+    "build_script": "Makefile"
+  },
+  "saminiir/level-ip": {
+    "stars": 956,
+    "build_script": "Makefile"
+  },
+  "torproject/tor": {
+    "stars": 953,
+    "build_script": "autogen.sh"
+  },
+  "traildb/traildb": {
+    "stars": 948,
+    "build_script": "autogen.sh"
+  },
+  "linux-test-project/ltp": {
+    "stars": 947,
+    "build_script": "Makefile"
+  },
+  "snavely/bundler_sfm": {
+    "stars": 946,
+    "build_script": "Makefile"
+  },
+  "ambrop72/badvpn": {
+    "stars": 946,
+    "build_script": "CMakeLists.txt"
+  },
+  "ntop/n2n": {
+    "stars": 944,
+    "build_script": "CMakeLists.txt"
+  },
+  "the-tcpdump-group/tcpdump": {
+    "stars": 942,
+    "build_script": "configure"
+  },
+  "FreeRADIUS/freeradius-server": {
+    "stars": 940,
+    "build_script": "Makefile"
+  },
+  "klange/nyancat": {
+    "stars": 939,
+    "build_script": "Makefile"
+  },
+  "adrianlopezroche/fdupes": {
+    "stars": 937,
+    "build_script": "configure.ac"
+  },
+  "apache/guacamole-server": {
+    "stars": 936,
+    "build_script": "configure.ac"
+  },
+  "Librevault/librevault": {
+    "stars": 933,
+    "build_script": "CMakeLists.txt"
+  },
+  "tuanpmt/esp_mqtt": {
+    "stars": 931,
+    "build_script": "Makefile"
+  },
+  "paparazzi/paparazzi": {
+    "stars": 930,
+    "build_script": "Makefile"
+  },
+  "haproxy-unofficial-obsolete-mirrors/haproxy": {
+    "stars": 930,
+    "build_script": "Makefile"
+  },
+  "MidnightCommander/mc": {
+    "stars": 927,
+    "build_script": "autogen.sh"
+  },
+  "symisc/unqlite": {
+    "stars": 926,
+    "build_script": "CMakeLists.txt"
+  },
+  "osqzss/gps-sdr-sim": {
+    "stars": 922,
+    "build_script": "Makefile"
+  },
+  "abperiasamy/rtl8812AU_8821AU_linux": {
+    "stars": 921,
+    "build_script": "Makefile"
+  },
+  "CTCaer/hekate": {
+    "stars": 919,
+    "build_script": "Makefile"
+  },
+  "rsyslog/rsyslog": {
+    "stars": 917,
+    "build_script": "autogen.sh"
+  },
+  "projectatomic/bubblewrap": {
+    "stars": 917,
+    "build_script": "autogen.sh"
+  },
+  "DynamoRIO/dynamorio": {
+    "stars": 915,
+    "build_script": "CMakeLists.txt"
+  },
+  "danielgtaylor/jpeg-archive": {
+    "stars": 914,
+    "build_script": "Makefile"
+  },
+  "wiire-a/pixiewps": {
+    "stars": 914,
+    "build_script": "Makefile"
+  },
+  "djcb/mu": {
+    "stars": 911,
+    "build_script": "autogen.sh"
+  },
+  "YugaByte/yugabyte-db": {
+    "stars": 911,
+    "build_script": "CMakeLists.txt"
+  },
+  "danginsburg/opengles3-book": {
+    "stars": 911,
+    "build_script": "CMakeLists.txt"
+  },
+  "kevinlawler/kona": {
+    "stars": 910,
+    "build_script": "Makefile"
+  },
+  "patjak/bcwc_pcie": {
+    "stars": 910,
+    "build_script": "Makefile"
+  },
+  "rougier/freetype-gl": {
+    "stars": 908,
+    "build_script": "CMakeLists.txt"
+  },
+  "udp/json-parser": {
+    "stars": 904,
+    "build_script": "configure"
+  },
+  "holmium/dnsforwarder": {
+    "stars": 904,
+    "build_script": "configure"
+  },
+  "pytorch/QNNPACK": {
+    "stars": 897,
+    "build_script": "CMakeLists.txt"
+  },
+  "rizsotto/Bear": {
+    "stars": 896,
+    "build_script": "CMakeLists.txt"
+  },
+  "xroche/httrack": {
+    "stars": 895,
+    "build_script": "configure"
+  },
+  "orangeduck/Corange": {
+    "stars": 895,
+    "build_script": "Makefile"
+  },
+  "mpenkov/ffmpeg-tutorial": {
+    "stars": 893,
+    "build_script": "Makefile"
+  },
+  "bitly/dablooms": {
+    "stars": 889,
+    "build_script": "Makefile"
+  },
+  "JFreegman/toxic": {
+    "stars": 889,
+    "build_script": "Makefile"
+  },
+  "mariadb-corporation/MaxScale": {
+    "stars": 888,
+    "build_script": "CMakeLists.txt"
+  },
+  "henkman/virgo": {
+    "stars": 888,
+    "build_script": "Makefile"
+  },
+  "samr7/vanitygen": {
+    "stars": 885,
+    "build_script": "Makefile"
+  },
+  "kripken/box2d.js": {
+    "stars": 882,
+    "build_script": "Makefile"
+  },
+  "axel-download-accelerator/axel": {
+    "stars": 879,
+    "build_script": "autogen.sh"
+  },
+  "aircrack-ng/aircrack-ng-archive": {
+    "stars": 879,
+    "build_script": "autogen.sh"
+  },
+  "symisc/sod": {
+    "stars": 876,
+    "build_script": "Makefile"
+  },
+  "centaurean/density": {
+    "stars": 873,
+    "build_script": "Makefile"
+  },
+  "coreutils/coreutils": {
+    "stars": 871,
+    "build_script": "bootstrap"
+  },
+  "uzbl/uzbl": {
+    "stars": 869,
+    "build_script": "Makefile"
+  },
+  "blechschmidt/massdns": {
+    "stars": 868,
+    "build_script": "Makefile"
+  },
+  "lwfinger/rtl8188eu": {
+    "stars": 867,
+    "build_script": "Makefile"
+  },
+  "muennich/sxiv": {
+    "stars": 865,
+    "build_script": "Makefile"
+  },
+  "blacksphere/blackmagic": {
+    "stars": 865,
+    "build_script": "Makefile"
+  },
+  "kamailio/kamailio": {
+    "stars": 864,
+    "build_script": "Makefile"
+  },
+  "Lede-Inc/cetus": {
+    "stars": 864,
+    "build_script": "CMakeLists.txt"
+  },
+  "christinaa/rpi-open-firmware": {
+    "stars": 863,
+    "build_script": "Makefile"
+  },
+  "kornelski/giflossy": {
+    "stars": 863,
+    "build_script": "configure.ac"
+  },
+  "paboldin/meltdown-exploit": {
+    "stars": 860,
+    "build_script": "Makefile"
+  },
+  "opsengine/cpulimit": {
+    "stars": 860,
+    "build_script": "Makefile"
+  },
+  "iNavFlight/inav": {
+    "stars": 858,
+    "build_script": "Makefile"
+  },
+  "jbush001/NyuziProcessor": {
+    "stars": 855,
+    "build_script": "CMakeLists.txt"
+  },
+  "Lora-net/LoRaMac-node": {
+    "stars": 854,
+    "build_script": "CMakeLists.txt"
+  },
+  "gsliepen/tinc": {
+    "stars": 851,
+    "build_script": "configure.ac"
+  },
+  "CanonicalLtd/dqlite": {
+    "stars": 844,
+    "build_script": "configure.ac"
+  },
+  "libharu/libharu": {
+    "stars": 844,
+    "build_script": "CMakeLists.txt"
+  },
+  "nanomsg/nng": {
+    "stars": 843,
+    "build_script": "CMakeLists.txt"
+  },
+  "okbob/pspg": {
+    "stars": 841,
+    "build_script": "Makefile"
+  },
+  "jordansissel/xdotool": {
+    "stars": 840,
+    "build_script": "Makefile"
+  },
+  "dequis/purple-facebook": {
+    "stars": 836,
+    "build_script": "autogen.sh"
+  },
+  "spotify/sparkey": {
+    "stars": 836,
+    "build_script": "configure.ac"
+  },
+  "twitter/twemcache": {
+    "stars": 836,
+    "build_script": "configure.ac"
+  },
+  "alibaba/ApsaraCache": {
+    "stars": 836,
+    "build_script": "Makefile"
+  },
+  "defuse/swatd": {
+    "stars": 833,
+    "build_script": "Makefile"
+  },
+  "zardus/preeny": {
+    "stars": 833,
+    "build_script": "Makefile"
+  },
+  "AltraMayor/f3": {
+    "stars": 832,
+    "build_script": "Makefile"
+  },
+  "wine-mirror/wine": {
+    "stars": 826,
+    "build_script": "configure"
+  },
+  "quiet/quiet": {
+    "stars": 826,
+    "build_script": "CMakeLists.txt"
+  },
+  "matsumotory/ngx_mruby": {
+    "stars": 825,
+    "build_script": "configure"
+  },
+  "codeplea/genann": {
+    "stars": 825,
+    "build_script": "Makefile"
+  },
+  "usrbinnc/netcat-cpi-kernel-module": {
+    "stars": 821,
+    "build_script": "Makefile"
+  },
+  "mintty/mintty": {
+    "stars": 819,
+    "build_script": "Makefile"
+  },
+  "FRRouting/frr": {
+    "stars": 811,
+    "build_script": "configure.ac"
+  },
+  "bloomberg/comdb2": {
+    "stars": 808,
+    "build_script": "CMakeLists.txt"
+  },
+  "rbsec/sslscan": {
+    "stars": 806,
+    "build_script": "Makefile"
+  },
+  "mptre/yank": {
+    "stars": 805,
+    "build_script": "Makefile"
+  },
+  "olikraus/u8glib": {
+    "stars": 801,
+    "build_script": "autogen.sh"
+  },
+  "reorg/pg_repack": {
+    "stars": 799,
+    "build_script": "Makefile"
+  },
+  "projectNe10/Ne10": {
+    "stars": 799,
+    "build_script": "CMakeLists.txt"
+  },
+  "checkpoint-restore/criu": {
+    "stars": 797,
+    "build_script": "Makefile"
+  },
+  "aircrack-ng/aircrack-ng": {
+    "stars": 797,
+    "build_script": "autogen.sh"
+  },
+  "devsisters/goquic": {
+    "stars": 796,
+    "build_script": "Makefile"
+  },
+  "igraph/igraph": {
+    "stars": 794,
+    "build_script": "configure.ac"
+  },
+  "sheepdog/sheepdog": {
+    "stars": 793,
+    "build_script": "autogen.sh"
+  },
+  "andrewrk/libsoundio": {
+    "stars": 793,
+    "build_script": "CMakeLists.txt"
+  },
+  "timwr/CVE-2016-5195": {
+    "stars": 793,
+    "build_script": "Makefile"
+  },
+  "emweb/wt": {
+    "stars": 792,
+    "build_script": "CMakeLists.txt"
+  },
+  "cc65/cc65": {
+    "stars": 789,
+    "build_script": "Makefile"
+  },
+  "libressl-portable/portable": {
+    "stars": 786,
+    "build_script": "CMakeLists.txt"
+  },
+  "heterodb/pg-strom": {
+    "stars": 786,
+    "build_script": "Makefile"
+  },
+  "tjko/jpegoptim": {
+    "stars": 785,
+    "build_script": "configure"
+  },
+  "commonmark/cmark": {
+    "stars": 785,
+    "build_script": "Makefile"
+  },
+  "hgpvision/darknet": {
+    "stars": 783,
+    "build_script": "Makefile"
+  },
+  "examplecode/mproxy": {
+    "stars": 780,
+    "build_script": "Makefile"
+  },
+  "karthick18/inception": {
+    "stars": 778,
+    "build_script": "Makefile"
+  },
+  "douban/beansdb": {
+    "stars": 771,
+    "build_script": "autogen.sh"
+  },
+  "hanslub42/rlwrap": {
+    "stars": 771,
+    "build_script": "configure.ac"
+  },
+  "pgbouncer/pgbouncer": {
+    "stars": 769,
+    "build_script": "Makefile"
+  },
+  "TheOfficialFloW/VitaShell": {
+    "stars": 769,
+    "build_script": "CMakeLists.txt"
+  },
+  "baskerville/sxhkd": {
+    "stars": 767,
+    "build_script": "Makefile"
+  },
+  "jimon/osx_app_in_plain_c": {
+    "stars": 767,
+    "build_script": "Makefile"
+  },
+  "kkos/oniguruma": {
+    "stars": 764,
+    "build_script": "CMakeLists.txt"
+  },
+  "Snaipe/Criterion": {
+    "stars": 761,
+    "build_script": "CMakeLists.txt"
+  },
+  "alexfru/SmallerC": {
+    "stars": 760,
+    "build_script": "Makefile"
+  },
+  "juhovh/shairplay": {
+    "stars": 755,
+    "build_script": "autogen.sh"
+  },
+  "SOHUDBA/SOHU-DBProxy": {
+    "stars": 750,
+    "build_script": "CMakeLists.txt"
+  },
+  "lanoxx/tilda": {
+    "stars": 748,
+    "build_script": "autogen.sh"
+  },
+  "cksystemsteaching/selfie": {
+    "stars": 746,
+    "build_script": "Makefile"
+  },
+  "cloudozer/ling": {
+    "stars": 739,
+    "build_script": "Makefile"
+  },
+  "bitcoin-core/secp256k1": {
+    "stars": 736,
+    "build_script": "autogen.sh"
+  },
+  "cyring/CoreFreq": {
+    "stars": 735,
+    "build_script": "Makefile"
+  },
+  "BohuTANG/nessDB": {
+    "stars": 733,
+    "build_script": "Makefile"
+  },
+  "Reisyukaku/ReiNX": {
+    "stars": 728,
+    "build_script": "Makefile"
+  },
+  "riolet/rix": {
+    "stars": 723,
+    "build_script": "Makefile"
+  },
+  "gnab/rtl8812au": {
+    "stars": 723,
+    "build_script": "Makefile"
+  },
+  "pvaret/rtl8192cu-fixes": {
+    "stars": 723,
+    "build_script": "Makefile"
+  },
+  "cisco/joy": {
+    "stars": 723,
+    "build_script": "configure"
+  },
+  "kgabis/parson": {
+    "stars": 720,
+    "build_script": "Makefile"
+  },
+  "FreeApophis/TrueCrypt": {
+    "stars": 719,
+    "build_script": "Makefile"
+  },
+  "jklmnn/imagejs": {
+    "stars": 718,
+    "build_script": "CMakeLists.txt"
+  },
+  "erich666/GraphicsGems": {
+    "stars": 717,
+    "build_script": "CMakeLists.txt"
+  },
+  "gpac/gpac": {
+    "stars": 717,
+    "build_script": "Makefile"
+  },
+  "psankar/simplefs": {
+    "stars": 715,
+    "build_script": "Makefile"
+  },
+  "cjlin1/liblinear": {
+    "stars": 715,
+    "build_script": "Makefile"
+  },
+  "samtools/samtools": {
+    "stars": 714,
+    "build_script": "Makefile"
+  },
+  "coreboot/coreboot": {
+    "stars": 713,
+    "build_script": "Makefile"
+  },
+  "citusdata/postgresql-hll": {
+    "stars": 627,
+    "build_script": "Makefile"
+  },
+  "trapexit/mergerfs": {
+    "stars": 627,
+    "build_script": "Makefile"
+  },
+  "httperf/httperf": {
+    "stars": 624,
+    "build_script": "configure.ac"
+  },
+  "shadow/shadow": {
+    "stars": 619,
+    "build_script": "CMakeLists.txt"
+  },
+  "cloudwu/sproto": {
+    "stars": 615,
+    "build_script": "Makefile"
+  },
+  "eleme/corvus": {
+    "stars": 615,
+    "build_script": "Makefile"
+  },
+  "cschied/q2vkpt": {
+    "stars": 614,
+    "build_script": "Makefile"
+  },
+  "litehtml/litehtml": {
+    "stars": 612,
+    "build_script": "CMakeLists.txt"
+  },
+  "rustyrussell/ccan": {
+    "stars": 612,
+    "build_script": "Makefile"
+  },
+  "gwaldron/osgearth": {
+    "stars": 612,
+    "build_script": "CMakeLists.txt"
+  },
+  "posva/catimg": {
+    "stars": 611,
+    "build_script": "CMakeLists.txt"
+  },
+  "vmt/udis86": {
+    "stars": 611,
+    "build_script": "autogen.sh"
+  },
+  "wifidog/wifidog-gateway": {
+    "stars": 610,
+    "build_script": "autogen.sh"
+  },
+  "quiet/quiet-lwip": {
+    "stars": 608,
+    "build_script": "CMakeLists.txt"
+  },
+  "ZerBea/hcxtools": {
+    "stars": 607,
+    "build_script": "Makefile"
+  },
+  "ClusterLabs/pacemaker": {
+    "stars": 606,
+    "build_script": "autogen.sh"
+  },
+  "notsecure/uTox": {
+    "stars": 605,
+    "build_script": "Makefile"
+  },
+  "nfc-tools/libnfc": {
+    "stars": 605,
+    "build_script": "CMakeLists.txt"
+  },
+  "Smorodov/Multitarget-tracker": {
+    "stars": 605,
+    "build_script": "CMakeLists.txt"
+  }
+}

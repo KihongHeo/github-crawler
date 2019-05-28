@@ -1,0 +1,46 @@
+{
+  "curl/curl": {
+    "stars": 12275,
+    "build_script": "https://github.com/curl/curl/blob/master/.travis.yml"
+  },
+  "facebook/zstd": {
+    "stars": 9370,
+    "build_script": "https://github.com/facebook/zstd/blob/dev/Makefile"
+  },
+  "lz4/lz4": {
+    "stars": 3668,
+    "build_script": "https://github.com/lz4/lz4/blob/dev/.travis.yml"
+  },
+  "upx/upx": {
+    "stars": 3423,
+    "build_script": "https://github.com/upx/upx/blob/master/.travis.yml"
+  },
+  "Cyan4973/xxHash": {
+    "stars": 2591,
+    "build_script": "https://github.com/Cyan4973/xxHash/blob/dev/Makefile"
+  },
+  "RT-Thread/rt-thread": {
+    "stars": 2236,
+    "build_script": "https://github.com/RT-Thread/rt-thread/blob/master/.travis.yml"
+  },
+  "openvswitch/ovs": {
+    "stars": 1834,
+    "build_script": "https://github.com/openvswitch/ovs/blob/master/Makefile.am"
+  },
+  "netblue30/firejail": {
+    "stars": 1733,
+    "build_script": "https://github.com/netblue30/firejail/blob/master/Makefile.in"
+  },
+  "the-tcpdump-group/tcpdump": {
+    "stars": 950,
+    "build_script": "https://github.com/the-tcpdump-group/tcpdump/blob/master/.travis.yml"
+  },
+  "dequis/purple-facebook": {
+    "stars": 837,
+    "build_script": "https://github.com/dequis/purple-facebook/blob/master/.travis.yml"
+  },
+  "Cyan4973/FiniteStateEntropy": {
+    "stars": 757,
+    "build_script": "https://github.com/Cyan4973/FiniteStateEntropy/blob/dev/Makefile"
+  }
+}
